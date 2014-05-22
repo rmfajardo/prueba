@@ -1,0 +1,8 @@
+http://172.33.142.62:8877/vweb/xml/ws_vmp/delete_espec?id_company=1&id_esp_guia=270
+http://172.33.142.62:8877/vweb/xml/ws_vmp/delete_vmp?id_company=1&id_vmp_guia=270
+http://172.33.142.62:8877/vweb/xml/ws_vmp/espinsert?id_company=1&id_esp=1141494&formagalenica=prueba
+http://172.33.142.62:8877/vweb/xml/ws_vmp/vmpinsert?id_vmp=3721&id_company=1
+http://172.33.142.62:8877/vweb/xml/ws_vmp/crear_fomula_magistral?id_company=1&nombre=pruebaws&formagalenica=pruebaws
+
+http://172.33.142.62:8877/vweb/xml/ws_vmp/search_vmp?id_company=1&busqueda=a&prefix=%25&page=3&nbpage=2
+http://172.33.142.62:8877/vweb/xml/ws_vmp/search_esp?id_company=1&busqueda=a&prefix=%25&page=7&nbpage=2
